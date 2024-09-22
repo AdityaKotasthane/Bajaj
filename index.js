@@ -25,7 +25,7 @@ const extractData = (dataArray) => {
 
   return { numbers, alphabets };
 };
-
+// Hii
 // Helper function to find the highest lowercase alphabet
 const getHighestLowercase = (alphabets) => {
   const lowercaseAlphabets = alphabets.filter(
